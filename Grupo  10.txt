@@ -1,0 +1,12 @@
+Nome do Grupo : 10
+
+Participantes : Gustavo Mendes , Gabriel Almeida , Nathaly
+
+O que foi criado
+Foi criada uma aplicação que permite visualizar informações sobre os tipos e a quantidade de crimes registrados em diferentes regiões, ajudando os usuários a compreender melhor a situação da segurança local.
+
+Quem vai utilizar
+Moradores, visitantes e pessoas interessadas em conhecer os dados de criminalidade de uma região.
+
+Como será usado
+O usuário consulta uma região no mapa para visualizar os casos registrados e os tipos de crimes mais frequentes, obtendo informações que ajudam na conscientização e na adoção de medidas preventivas.

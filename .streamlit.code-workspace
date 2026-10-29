@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../projeto aws hack/.streamlit"
+		},
+		{
+			"path": "../projeto aws hack/data"
+		},
+		{
+			"path": "../projeto aws hack/sentinela"
+		},
+		{
+			"path": "../projeto aws hack/tests"
+		}
+	]
+}
